@@ -1,1 +1,1 @@
-# My First Flask/Django Application
+# My First Flask Application
